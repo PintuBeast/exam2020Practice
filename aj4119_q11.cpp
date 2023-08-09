@@ -1,3 +1,8 @@
+/*
+Name: Abhishek J K
+Netid: aj4119
+*/
+
 #include<iostream>
 using namespace std;
 int n,squareType=-1; // -1 indicates X and 1 indicates O
